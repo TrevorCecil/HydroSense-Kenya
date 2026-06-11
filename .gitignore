@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large data files (Optional: keep if you want raw data on GitHub, remove if data is too massive)
+# data/raw/*.csv
